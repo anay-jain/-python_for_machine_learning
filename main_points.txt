@@ -1,3 +1,12 @@
 Fundamnetals of machine Learing and Deep learning
 https://github.com/ageron/handson-ml
  
+
+ https://www.kaggle.com/c/digit-recognizer
+
+ http://www.slides.com/shagunsodhani
+
+ https://github.com/paarthneekhara/text-to-image
+ https://visualdialog.org/
+ cycleGan and pix2pix pytorch
+ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix

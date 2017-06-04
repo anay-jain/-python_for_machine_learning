@@ -1,0 +1,14 @@
+sci-kit  -> to train a classifier
+numpy -> to manipulate an array -> input(x)
+
+Multi label classification   -> can have many correct answers
+binary class classification  -> two problems (only two classes)
+multi class classification  -> only one correct answer
+
+mnist uses target (which is notation for classes )
+1000 dataset member
+	300 for validation(which nobody hasnt seen)
+	500 for training the classifier
+	200 for testing 
+x - > training data numoy.ndarray
+y - output

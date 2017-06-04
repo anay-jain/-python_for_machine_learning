@@ -1,0 +1,21 @@
+from sklearn.linear_model import SVC as model
+clf = model()
+
+
+
+// .fit (for traing a classifier)
+// .predict (to have an ouput for an input )
+
+skfolds = StratifiedKFold(n_splits=3, random_state=42)
+kflod validation . just divide it into n chunks and remove 1 chunk for  a validation .. doing ut for all
+
+
+y_train_pred = cross_val_predict(sgd_clf, X_train, y_train_5, cv=3)
+cv = no of kfolds for validation
+
+confusion_matrix(y_train_5, y_train_pred)
+only accuracy feautre will be a problem
+as 1 in 100000 in binary classfication is 0
+so it will give 1 everytime and have the high accuracy 
+then confusion_matrix comes into pic
+http://www.slides.com/shagunsodhani
